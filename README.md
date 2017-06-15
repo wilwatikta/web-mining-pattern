@@ -1,2 +1,5 @@
 # web-mining-pattern
-Web mining prject using pattern library
+Web mining project using pattern library
+
+## Dependencies
+[Pattern](https://github.com/clips/pattern)
